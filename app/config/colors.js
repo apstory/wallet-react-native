@@ -2,7 +2,7 @@ export default {
   primary: '#4d4d4d',
   secondary: '#a6a6a6',
   tertiary: '#c4c4c4',
-  focus: '#9797F0',
+  focus: 'orange',
 
   primaryContrast: '#f3f3f3',
   secondaryContrast: '#2d2d2d',

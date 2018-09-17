@@ -314,7 +314,7 @@ class SendScreen extends Component {
             break;
           case 'email':
             label = label + 'recipient name or email';
-            placeholder = 'e.g. user@rehive.com';
+            placeholder = 'e.g. user@actifinder.co.za';
             break;
           case 'crypto':
             label = label + sendType + ' address';

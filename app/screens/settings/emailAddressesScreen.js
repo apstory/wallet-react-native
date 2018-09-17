@@ -41,7 +41,7 @@ class EmailAddressesScreen extends Component {
     return (
       <Input
         label="Email address"
-        placeholder="e.g. user@rehive.com"
+        placeholder="e.g. user@actifinder.co.za"
         autoCapitalize="none"
         value={email}
         inputError={updateError}
