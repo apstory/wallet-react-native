@@ -2,8 +2,7 @@
   "company": {
     "id": "advanced01",
     "name": "Advanced Demo Company 1",
-    "description":
-      "A demo company on the Rehive platform showcasing all the Rehive platform features"
+    "description": "A demo company on the Rehive platform showcasing all the Rehive platform features"
   },
   "services": {
     "bitcoin": true,
@@ -15,8 +14,7 @@
     "identifier": "email",
     "email": "required",
     "mobile": "",
-    "terms": [
-      {
+    "terms": [{
         "id": 0,
         "title": "Privacy Policy",
         "description": "Click here to read more on the privacy policy",
@@ -45,8 +43,7 @@
   },
   "home": {
     "header": "wallet",
-    "detail": [
-      {
+    "detail": [{
         "order": 0,
         "type": "cards"
       },
@@ -88,18 +85,17 @@
         "welcome": true,
         "verify": true
       },
-      "custom": [
-        {
+      "custom": [{
           "id": 0,
           "title": "Card 1",
-          "description": "This is your custom text for card 1",
+          "description": "",
           "image": "card1",
           "dismiss": true
         },
         {
           "id": 1,
           "title": "Card 2",
-          "description": "This is your custom text for card 2",
+          "description": "",
           "image": "card2",
           "dismiss": false
         }
@@ -107,8 +103,7 @@
     }
   },
   "sliders": {
-    "landing": [
-      {
+    "landing": [{
         "id": 0,
         "title": "Slide 1",
         "description": "This is your custom text for slide 1",
@@ -129,13 +124,11 @@
     ]
   },
   "screens": {
-    "login": [
-      {
-        "id": "0",
-        "title": "Login 1",
-        "description": "This is your custom text for login screen 1",
-        "image": "card1"
-      }
-    ]
+    "login": [{
+      "id": "0",
+      "title": "Login 1",
+      "description": "Welcome to the ActiFinder Wallet",
+      "image": "card1"
+    }]
   }
 }

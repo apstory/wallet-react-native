@@ -15,8 +15,7 @@
     "identifier": "email",
     "email": "optional",
     "mobile": "",
-    "terms": [
-      {
+    "terms": [{
         "id": 0,
         "title": "Privacy Policy",
         "link": "https://www.google.co.za/",
@@ -25,7 +24,7 @@
       {
         "id": 1,
         "title": "User Agreement",
-        "link": "https://www.rehive.com/",
+        "link": "https://www.actifinder.co.za/",
         "description": "Click here to read more on the user agreement"
       }
     ],
@@ -45,8 +44,7 @@
   },
   "home": {
     "header": "wallet",
-    "detail": [
-      {
+    "detail": [{
         "order": 0,
         "type": "cards"
       },
@@ -88,8 +86,7 @@
         "welcome": true,
         "verify": true
       },
-      "custom": [
-        {
+      "custom": [{
           "id": "0",
           "title": "PX Pay 1",
           "description": "This is the demo PX Pay card 1",
@@ -107,8 +104,7 @@
     }
   },
   "sliders": {
-    "landing": [
-      {
+    "landing": [{
         "id": "0",
         "title": "PX Pay",
         "description": "This is the demo account - PX Pay",
@@ -129,13 +125,11 @@
     ]
   },
   "screens": {
-    "login": [
-      {
-        "id": "0",
-        "title": "PX Pay 1",
-        "description": "This is the demo account - PX Pay",
-        "image": "pxpay"
-      }
-    ]
+    "login": [{
+      "id": "0",
+      "title": "PX Pay 1",
+      "description": "This is the demo account - PX Pay",
+      "image": "pxpay"
+    }]
   }
 }
